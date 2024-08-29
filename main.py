@@ -53,3 +53,5 @@ while not gamewon :
     print(display)
     print(hangman_art.stages[lives])
 print(f"The Hidden Word is {randomword}")
+
+# this is manoush code 
